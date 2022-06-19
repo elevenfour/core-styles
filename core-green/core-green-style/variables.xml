@@ -54,4 +54,5 @@
 	<variable name="wcfSidebarHeadlineText"><![CDATA[rgba(53, 79, 43, 1)]]></variable>
 	<variable name="wcfSidebarText"><![CDATA[rgba(53, 79, 43, 1)]]></variable>
 	<variable name="wcfTabularBoxHeadline"><![CDATA[rgba(96, 174, 66, 1)]]></variable>
+	<variable name="wcfUserMenuIndicator"><![CDATA[rgba(98, 220, 50, 1)]]></variable>
 </variables>

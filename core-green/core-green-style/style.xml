@@ -6,8 +6,8 @@
 		<description language="de"><![CDATA[Der Stil Core - aber mit grüner Farbpalette]]></description>
 		<description language="en"><![CDATA[The Core style but with a green color palette]]></description>
 		<date><![CDATA[2021-04-24]]></date>
-		<version><![CDATA[5.4.0]]></version>
-		<apiVersion><![CDATA[5.2]]></apiVersion>
+		<version><![CDATA[5.5.0]]></version>
+		<apiVersion><![CDATA[5.5]]></apiVersion>
 		<copyright><![CDATA[René Leege @ Elevenfour]]></copyright>
 		<license><![CDATA[GNU Lesser General Public License (LGPL Version 3)]]></license>
 	</general>
@@ -17,6 +17,6 @@
 	</author>
 	<files>
 		<variables><![CDATA[variables.xml]]></variables>
-		<images path="images/style-27/"><![CDATA[images.tar]]></images>
+		<images path="images/style-14/"><![CDATA[images.tar]]></images>
 	</files>
 </style>
