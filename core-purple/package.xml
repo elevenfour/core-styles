@@ -22,11 +22,11 @@
 	</excludedpackages>
 
 	<instructions type="install">
-		<instruction type="style"><![CDATA[core-green-style.tgz]]></instruction>
+		<instruction type="style"><![CDATA[core-purple-style.tgz]]></instruction>
 	</instructions>
 
 	<instructions type="update" fromversion="5.4.0">
-		<instruction type="style"><![CDATA[core-green-style.tgz]]></instruction>
+		<instruction type="style"><![CDATA[core-purple-style.tgz]]></instruction>
 	</instructions>
 
 </package>
