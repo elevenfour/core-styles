@@ -5,7 +5,7 @@
 		<packagename><![CDATA[Core Purple]]></packagename>
 		<packagedescription language="en"/>
 		<version><![CDATA[5.5.0]]></version>
-		<date><![CDATA[2022-06-19]]></date>
+		<date><![CDATA[2022-07-10]]></date>
 	</packageinformation>
 
 	<authorinformation>
@@ -14,7 +14,7 @@
 	</authorinformation>
 
 	<requiredpackages>
-		<requiredpackage minversion="5.5.0 RC 1"><![CDATA[com.woltlab.wcf]]></requiredpackage>
+		<requiredpackage minversion="5.5.2"><![CDATA[com.woltlab.wcf]]></requiredpackage>
 	</requiredpackages>
 
 	<excludedpackages>
